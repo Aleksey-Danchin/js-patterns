@@ -14,4 +14,4 @@
 	- [Flyweight / Приспособленец / Легковес](/StructurePatterns/Proxy.md "Flyweight pattern")
 	- [Proxy / Прокси / Заместитель](/StructurePatterns/Proxy.md "Proxy pattern")
 - Поведенческие паттерны:
-	- [Soon](/BehavioralPatterns/Soon.md  "Soon")
+	- [Soon](/BehavioralPatterns/Promise.md  "Soon")
