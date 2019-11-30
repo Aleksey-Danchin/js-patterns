@@ -1,3 +1,10 @@
-1. [Пораждающие паттерны](/CreationalPatterns.md "Пораждающие паттерны")
-2. [Структурные паттерны](/StructurePatterns.md "Структурные паттерны")
-3. [Поведенческие паттерны](/BehavioralPatterns.md "Поведенческие паттерны")
+- [Пораждающие паттерны](/CreationalPatterns.md "Пораждающие паттерны")
+- Структурные паттерны
+	- [Adapter / Адаптер](/StructurePatterns/Adapter.md "Adapter pattern")
+	- [Bridge / Мост](/StructurePatterns/Proxy.md "Bridge pattern")
+	- [Composite / Компоновщик](/StructurePatterns/Proxy.md "Composite pattern")
+	- [Decorator / Декоратор](/StructurePatterns/Proxy.md "Decorator pattern")
+	- [Facade / Фасад](/StructurePatterns/Proxy.md "Facade pattern")
+	- [Flyweight / Приспособленец / Легковес](/StructurePatterns/Proxy.md "Flyweight pattern")
+	- [Proxy / Прокси / Заместитель](/StructurePatterns/Proxy.md "Proxy pattern")
+- [Поведенческие паттерны](/BehavioralPatterns.md "Поведенческие паттерны")
