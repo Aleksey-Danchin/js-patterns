@@ -1,4 +1,4 @@
-- Пораждающие паттерны:
+- Порождающие паттерны:
 	- [Factory / Фактория / Фабрика](/CreationalPatterns/Factory.md "Factory pattern")
 	- [Factory Method / Фабричный метод](/CreationalPatterns/FactoryMethod.md "Factory Method pattern")
 	- [Abstract Factory / Абстрактная фабрика](/CreationalPatterns/AbstractFactory.md "Abstract Factory pattern")
@@ -14,4 +14,4 @@
 	- [Flyweight / Приспособленец / Легковес](/StructurePatterns/Proxy.md "Flyweight pattern")
 	- [Proxy / Прокси / Заместитель](/StructurePatterns/Proxy.md "Proxy pattern")
 - Поведенческие паттерны:
-	- Soon
+	- [Soon](/BehavioralPatterns/Soon.md  "Soon")
