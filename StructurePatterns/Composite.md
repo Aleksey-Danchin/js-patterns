@@ -34,7 +34,7 @@ products.add(new Good('Молоко', 24))
 
 console.log(`Общая цена категории "${products.label}" составила ${products.price}"`)
 
-const basket = new Composite('Карзина')
+const basket = new Composite('Корзина')
 basket.add(products)
 basket.add(new Good('Машинное масло', 100))
 

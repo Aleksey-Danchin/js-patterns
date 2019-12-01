@@ -10,7 +10,7 @@ class Database {
 		return new Database(...args)
 	}
 
-	saveNewtUserData (user) {
+	saveNewUserData (user) {
 		this.users.push(
 			JSON.parse(JSON.stringify(user))
 		)
@@ -31,7 +31,7 @@ class Adapter {
 	}
 
 	add (user) {
-		this.db.saveNewtUserData(user)
+		this.db.saveNewUserData(user)
 	}
 
 	find (userId) {
