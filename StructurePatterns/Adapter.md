@@ -1,3 +1,5 @@
+[← Назад](/README.md "Вернуться на главную страницу")
+
 ![Adapter](https://hsto.org/getpro/habr/post_images/4ae/931/8d8/4ae9318d8b986cf4efada94b9de54761.jpg)
 
 ```javascript

@@ -1,3 +1,5 @@
+[← Назад](/README.md "Вернуться на главную страницу")
+
 # Composite / Компоновщик
 
 ![Composite](https://hsto.org/getpro/habr/post_images/3c0/75e/525/3c075e525a7ed4aa2f13495a3289e348.jpg)

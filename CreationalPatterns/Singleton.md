@@ -1,3 +1,5 @@
+[← Назад](/README.md "Вернуться на главную страницу")
+
 # Singleton / Одиночка
 
 ![Singleton](https://hsto.org/getpro/habr/post_images/f80/871/aaf/f80871aaf46238adcc0cd2468f19a4c5.jpg)

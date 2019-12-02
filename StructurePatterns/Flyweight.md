@@ -1,3 +1,5 @@
+[← Назад](/README.md "Вернуться на главную страницу")
+
 # Flyweight / Приспособленец / Легковес
 
 ![Flyweight](https://hsto.org/getpro/habr/post_images/120/481/32c/12048132c537c1ad342f3fe17647de0d.jpg)

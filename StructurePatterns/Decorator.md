@@ -1,3 +1,5 @@
+[← Назад](/README.md "Вернуться на главную страницу")
+
 # Decorator / Декоратор
 
 ![Decorator](https://hsto.org/getpro/habr/post_images/15c/27c/26e/15c27c26e08f1936e3f73089ecac3d05.jpg)

@@ -22,7 +22,7 @@
 	- [Flyweight / Приспособленец / Легковес](/StructurePatterns/Flyweight.md "Flyweight pattern")
 	- [Proxy / Прокси / Заместитель](/StructurePatterns/Proxy.md "Proxy pattern")
 - Поведенческие паттерны:
-	- [Chain Of Responsibility / Цепочка Обязанностей](/BehavioralPatterns/ChainOfResponsibility "Chain Of Responsibility pattern")
+	- [Chain Of Responsibility / Цепочка Обязанностей](/BehavioralPatterns/ChainOfResponsibility.md "Chain Of Responsibility pattern")
 	- [Command / Команда](/BehavioralPatterns/Command.md "Command pattern")
 	- [Interpreter / Интерпретатор](/BehavioralPatterns/Interpreter.md "Interpreter pattern")
 	- [Iterator / Итератор](/BehavioralPatterns/Iterator.md "Iterator pattern")
@@ -31,5 +31,5 @@
 	- [Observer / Слушатель / Наблюдатель](/BehavioralPatterns/Observer.md "Observer pattern")
 	- [State / Состояние](/BehavioralPatterns/State.md "State pattern")
 	- [Strategy / Стратегия](/BehavioralPatterns/Strategy.md "Strategy pattern")
-	- [Template Method / Шаблонный метод](/BehavioralPatterns/TemplateMethod "Template Method pattern")
+	- [Template Method / Шаблонный метод](/BehavioralPatterns/TemplateMethod.md "Template Method pattern")
 	- [Visitor / Посетитель](/BehavioralPatterns/Visitor.md "Visitor pattern")

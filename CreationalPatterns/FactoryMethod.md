@@ -1,3 +1,5 @@
+[← Назад](/README.md "Вернуться на главную страницу")
+
 # Factory Method / Фабричный метод
 
 ![Fatcory Method](https://hsto.org/getpro/habr/post_images/a79/c7d/d5e/a79c7dd5eaba210f19e194f2b97434d0.jpg)
