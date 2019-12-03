@@ -47,9 +47,22 @@ const eating = {
 	}
 }
 
+const makeDrink = {
+	apple (apple) {
+		console.log('Делаем из яблок сидр!')
+	},
+
+	watermelon (watermelon) {
+		console.log('Арбузовый сок в коробке.')
+	}
+}
+
 const apple = new Apple
 const watermelon = new Watermelon
 
 apple.accept(eating)
 watermelon.accept(eating)
+
+apple.accept(makeDrink)
+watermelon.accept(makeDrink)
 ```
